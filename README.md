@@ -19,7 +19,7 @@
 Para cambiar de rama utilizamos el comando git checkout "nombre de la branch sin comillas".
 ``` 
 
-## Estos fueron los comandos básicos ahora veremos los comandos para repositorios en la nube
+## Ahora a subir nuestro repositorio a github
 ```	
 * Git remote add origin "enlace de tu repositorio en github sin comillas"  y luego con el comando git push -u origin master subimos nuestro proyecto git a nuestro repositorio en git hub.
 
