@@ -1,6 +1,6 @@
 # basic-comands-git
 
-###**Antes que nada debes crear una cuenta en github**
+### **Antes que nada debes crear una cuenta en github**
 
 ```
 * Git init: permite iniciar git para nuestro proyecto desde la ubicación donde estamos ubicados.
